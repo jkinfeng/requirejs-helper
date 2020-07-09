@@ -1,0 +1,27 @@
+{
+  "name": "requirejs-helper",
+  "version": "1.0.0",
+  "description": "Autoload js file of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkinfeng/requirejs-helper.git"
+  },
+  "keywords": [
+    "autoload",
+    "javascript",
+    "autoload js file",
+    "autoload javascript",
+    "require",
+    "requirejs"
+  ],
+  "author": "jkin.feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkinfeng/requirejs-helper/issues"
+  },
+  "homepage": "https://github.com/jkinfeng/requirejs-helper#readme"
+}
